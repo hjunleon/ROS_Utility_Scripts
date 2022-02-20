@@ -1,0 +1,3 @@
+/home/ubuntu/bumbleebee/catkin_ws/src/hornet-7.0/2018-20210920T131251Z-001/2018/competition_trail_run_trimmed.bag
+/home/ubuntu/bumbleebee/catkin_ws/src/hornet-7.0/2018-20210920T131251Z-001/2018/competition_trail_run_trimmed
+/Hornet/Cam/Floor/image_rect_color
